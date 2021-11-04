@@ -7,6 +7,6 @@ Import BD and establish connections.
 -
 
 Pagina de aseguradora de autos.
-Hecha en html, php, con conexion a base de datos SQL.
+-html(boostrap), php, con conexion a base de datos SQL.
 
 Importar BD y establecer conexiones .
