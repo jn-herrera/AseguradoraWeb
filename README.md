@@ -10,3 +10,8 @@ Pagina de aseguradora de autos.
 -html(boostrap), php, con conexion a base de datos SQL.
 
 Importar BD y establecer conexiones .
+
+
+Funciones:
+
+AMB, CONTROL DE POLIZAS, LOGIN, ETC
